@@ -1,0 +1,54 @@
+  .container {
+    padding: 20px;
+  }
+  
+  .checkCard input {
+    width: 180px;
+    padding: 6px 12px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    color: #555;
+  }
+  
+  .checkCard button {
+    padding: 6px 15px;
+    font-size: 100%;
+    border-radius: 5px;
+    border: 1px solid rgb(77, 144, 77);
+    background-color: rgb(77, 144, 77);
+    color: #fff;
+  }
+  
+  .message {
+    font-size: 18px;
+    padding: 10px;
+  }
+  
+  .cardsArea {
+    display: flex;
+    padding: 15px 0px;
+  }
+  
+  .cardsArea img {
+    width: 45px;
+    height: 25px;
+    margin: 0 2px;
+  }
+  
+  .blureimg {
+    opacity: 0.3;
+  }
+  
+  .calc {
+    font-size: 95%;
+    padding: 5px 13px;
+  }
+  
+  .valid {
+    color: rgb(77, 144, 77);
+  }
+  
+  .invalid {
+    color: red;
+  }
